@@ -1,2 +1,5 @@
-# ESP32-INA226
-Uase an ESP32 with the IDF SDK to measure current, tension and power with an INA226
+# Hello World Example
+
+Starts a FreeRTOS task to print "Hello World"
+
+See the README.md file in the upper level 'examples' directory for more information about examples.
